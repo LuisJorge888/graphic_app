@@ -10,7 +10,7 @@ App created with Dart/flutter.
 
 Shows in real time information obtained by consuming an MQTT (mosquitto) of different topics.
 
-<img src="https://user-images.githubusercontent.com/42185832/204399387-48ffcf36-1a4e-4901-9457-e7f5f10af5ad.png" title="JavaScript" alt="JavaScript" width="200" height="200"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/42185832/204399387-48ffcf36-1a4e-4901-9457-e7f5f10af5ad.png" title="JavaScript" alt="JavaScript" width="250" height="400"/>&nbsp;
 
 
 
