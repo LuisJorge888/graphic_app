@@ -12,5 +12,4 @@ Shows in real time information obtained by consuming an MQTT (mosquitto) of diff
 
 
 ## Example
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ohf7kC_GaGo
-" target="_blank">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ohf7kC_GaGo" target="_blank">
